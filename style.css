@@ -24,6 +24,9 @@ body{
 /* CABEÇALHO */
 header{
     padding: 40px 4%;
+    background-color: #6c09ee46;
+    border-top: 3px solid rgba(255, 255, 255, 0.295);
+    border-bottom: 3px solid rgba(255, 255, 255, 0.295);
 }
 
 header > .interface{
